@@ -6,3 +6,5 @@ Estudiante: Jesús Mateo Blandón Mesa
 Cédula: 1017235348
 
 Programa: Ingeniería de Sistemas
+
+Link de YouTube Entrega 2: https://www.youtube.com/watch?v=salJidDX6kc
